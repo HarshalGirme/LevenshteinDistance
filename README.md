@@ -11,3 +11,5 @@ Implementation of finding possible duplicates in CSV file
 The path for the csv file is hard coded and you can put the absolute path from your machine
 
 The output is in json format but you need to find words Duplicates and Non duplicates to finds exact records
+
+You can run the Spring Boot Application from your own IDE
