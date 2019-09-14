@@ -13,3 +13,5 @@ The path for the csv file is hard coded and you can put the absolute path from y
 The output is in json format but you need to find words Duplicates and Non duplicates to finds exact records
 
 You can run the Spring Boot Application from your own IDE
+
+You need to hit the API "http://localhost:8080/viewResult" to view the result page
